@@ -14,6 +14,10 @@ I am the founder of [Excelsior Consulting Services](https://excelsiorcs.com), wh
 - [Governed Automation Reference](https://github.com/SustainShujaa/governed-automation-reference)  
   A small, executable reference implementation showing how an intended action moves through explicit policy, human approval, narrow execution, and an inspectable receipt.
 
+
+- [Evidence Lineage Reference](https://github.com/SustainShujaa/evidence-lineage-reference)  
+  A synthetic, executable model for source identity, structured citations, explicit uncertainty, verification, and preserved retractions.
+
 ## Areas of focus
 
 - Governed automation and human-in-the-loop systems
