@@ -26,6 +26,10 @@ I am the founder of [Excelsior Consulting Services](https://excelsiorcs.com), wh
 - [Local-First AI Reference](https://github.com/SustainShujaa/local-first-ai-reference)  
   A provider-neutral routing model that keeps local processing as the default and requires explicit policy and consent for remote processing.
 
+
+- [Workflow Integration Reference](https://github.com/SustainShujaa/workflow-integration-reference)  
+  A simulated workflow model for validated intake, deterministic effect identities, narrow connectors, and idempotent receipts.
+
 ## Areas of focus
 
 - Governed automation and human-in-the-loop systems
