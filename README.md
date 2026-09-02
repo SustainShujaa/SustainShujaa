@@ -18,6 +18,10 @@ I am the founder of [Excelsior Consulting Services](https://excelsiorcs.com), wh
 - [Evidence Lineage Reference](https://github.com/SustainShujaa/evidence-lineage-reference)  
   A synthetic, executable model for source identity, structured citations, explicit uncertainty, verification, and preserved retractions.
 
+
+- [Operational Intelligence Diagnostic](https://github.com/SustainShujaa/operational-intelligence-diagnostic)  
+  A synthetic decision-support model that separates knowns, assumptions, and unknowns before preparing a human review brief.
+  
 ## Areas of focus
 
 - Governed automation and human-in-the-loop systems
