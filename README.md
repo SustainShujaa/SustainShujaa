@@ -22,6 +22,10 @@ I am the founder of [Excelsior Consulting Services](https://excelsiorcs.com), wh
 - [Operational Intelligence Diagnostic](https://github.com/SustainShujaa/operational-intelligence-diagnostic)  
   A synthetic decision-support model that separates knowns, assumptions, and unknowns before preparing a human review brief.
   
+
+- [Local-First AI Reference](https://github.com/SustainShujaa/local-first-ai-reference)  
+  A provider-neutral routing model that keeps local processing as the default and requires explicit policy and consent for remote processing.
+
 ## Areas of focus
 
 - Governed automation and human-in-the-loop systems
